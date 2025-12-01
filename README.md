@@ -1,18 +1,12 @@
-IoT Python System
-This project is a modular and beginner-friendly IoT system developed using Python. It supports real-time sensor data collection, device communication, automation workflows, and cloud integration. The system is designed for Raspberry Pi, Arduino (via serial), and any IoT hardware that uses standard protocols like MQTT, HTTP, or serial communication.
+# IoT Python System
 
-Features
+A modular IoT system built in Python for sensor data reading, device control, MQTT communication, automation, and real-time monitoring.
 
-Sensor data reading using Python
+## Features
+- Read sensor data (temperature, humidity, etc.)
+- Control devices (fan, relay, LED)
+- MQTT publish support
+- Modular architecture
+- Works with Raspberry Pi, Arduino (via serial), or simulation mode
 
-Control IoT devices (LED, motor, relay, etc.)
-
-MQTT-based communication
-
-Serial communication with Arduino
-
-Local data logging + cloud storage options
-
-Modular and easy-to-extend code
-
-Perfect for smart home or automation projects
+## How to Run
